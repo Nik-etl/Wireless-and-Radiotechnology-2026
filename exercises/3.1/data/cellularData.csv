@@ -1,0 +1,5 @@
+Time,Location Name,Environment,Tech,RSRP (dBm),SINR (dB),DL Speed (Mbps),PCI,Carrier Frequency (Band),Bandwidth
+10:14,Bedroom,Indoors 1st floor,4G,-106dB,8dB,20Mbps,234,7,10MHz
+19:42,Window,Indoors 1st floor ,4G,-89dB,13.3dB,22 Mbps,234,1,
+19:48,Bathroom,Indoors Central first floor ,4G,-104dB,13.9dB,21.9Mbps,234,,
+,,,,,,,,,
