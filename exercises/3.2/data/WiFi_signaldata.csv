@@ -1,0 +1,4 @@
+Location,SSID,Band (2.4/5GHz),Channel,RSSI (Signal),Ping (Latency),Download Speed,Security Type
+Desk,TP-Link,5 GHz,36,-39 dBm,13 ms,12.1 Mbps,WPA2
+Neighbor,TP-Link,2.4 GHz,1,-71dBm,14 ms,10.3 Mbps,WPA2
+Kitchen,TP-Link,2.4 GHz,1,-65dBm,14 ms,11.8Mbps,WPA2
