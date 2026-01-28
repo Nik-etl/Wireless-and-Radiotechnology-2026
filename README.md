@@ -6,8 +6,8 @@ This repository contains the practical assignments, field experiments, and simul
 
 ### Experiments
 * **Cellular Network Analysis:** Investigation of LTE/5G signal propagation, wall attenuation, and throughput vs. signal strength.
-* **[Wi-Fi Site Survey](./WiFi-Assignment):** Analysis of local LAN performance, channel interference, and band steering behavior.
-* **[BLE Signal Analysis](./BLE-Assignment):** Investigation of Bluetooth Low Energy proximity detection and multipath propagation.
+* **Wi-Fi Site Survey:** Analysis of local LAN performance, channel interference, and band steering behavior.
+* **BLE Signal Analysis:** Investigation of Bluetooth Low Energy proximity detection and multipath propagation.
 
 ### Simulations
 * **Matlab Exercises:** Scripts and simulations demonstrating wireless communication theory and signal processing concepts.
