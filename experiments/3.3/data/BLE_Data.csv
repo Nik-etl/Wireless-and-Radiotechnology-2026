@@ -1,6 +1,8 @@
-Environment,Device Name,RSSI,Est. Distance,Device type,,,
-Indoor,N's Airpods pro,-30 dBm,2 cm,Headphones,,,
-Indoor separated by wall ,N's Airpods pro,-60 dBm,5 m ,Headphones ,,,
-Indoor,JBL Tune 770,-53dBm,1 m,Headphones,,,
-Outside,N's Airpods pro,-43dBm,5 cm,Headphones,,,
-Outside,N's Airpods pro,-71dBm,1 m ,Headphones,,,
+Environment,Device Name,RSSI,Est. Distance,Device type
+Indoor,N's Airpods pro,-30 dBm,2 cm,Headphones
+Indoor separated by wall ,N's Airpods pro,-60 dBm,5 m ,Headphones 
+Indoor,JBL Tune 770,-53dBm,1 m,Headphones
+Outside,N's Airpods pro,-43dBm,5 cm,Headphones
+Outside,N's Airpods pro,-71dBm,1 m ,Headphones
+
+
