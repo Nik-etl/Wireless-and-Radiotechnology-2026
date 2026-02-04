@@ -12,6 +12,9 @@ This repository contains the practical assignments, field experiments, and simul
 ### Simulations
 * **Matlab Exercises:** Scripts and simulations demonstrating wireless communication theory and signal processing concepts.
 
+### Exercises
+* **Classroom Assigned Exercises:** Research reports, Short answer assignments, and Designing simple systems. 
+
 ---
 
 ## Academic Integrity Statement
