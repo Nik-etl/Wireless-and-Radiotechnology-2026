@@ -16,6 +16,7 @@ A brief statement on the project goal: analyzing the internal RF architecture of
 - Core Feature: A highly integrated 2.4 GHz radio with a built-in Power Amplifier (PA) and Low Noise Amplifier (LNA).
 
 3. **Original RF Block Analysis**
+
 | RF Block | System Role | Impact if Missing |
 | :--- | :--- | :--- |
 | RAM| Information source and destination | No data to transmit  |
@@ -24,6 +25,7 @@ A brief statement on the project goal: analyzing the internal RF architecture of
 | Whitening | Signal Scrambling and ensures data isn't lost in noise | Receiver loses it's lock on long strips of repeated bits |
 | PA | Boosts outgoing signals | Range is significantly limited. |
 | LNA | Catches faint incoming signals | Sensitivity drops |
+
 | ANT1 Pin | Antenna Interface | No signals will be sent or recieved |
 
 4. **Simplified Design Logic**
