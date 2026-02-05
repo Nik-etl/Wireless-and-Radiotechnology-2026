@@ -33,7 +33,5 @@ My simplified model focuses on the **Information Journey**. I have abstracted th
 * **Integrity and Security Phase:** The CRC and Whitening blocks are grouped here because their combined purpose is to ensure that accurate, synchronized data arrives at the destination.
 * **Radio Front End Phase:** The antenna interface, RSSI, and the 2.4GHz Transmitter/Receiver are grouped into this phase. This abstracts the complex analog matching networks and transceiver circuitry into a single functional block that interacts with the physical world.
 
----
+**ANT1**
 
-### Signal Flow Summary:
-**RAM** $\rightarrow$ **Data Pipeline** $\rightarrow$ **Integrity/Security** $\rightarrow$ **Radio Front End** $\rightarrow$ **ANT1**
