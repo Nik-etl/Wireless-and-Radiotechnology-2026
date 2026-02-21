@@ -5,12 +5,12 @@ The task is to evaluate a wireless link, by modifying key design parameters and 
 - LOS distance increased 1.9km
 - The link feasibility is improved because it increases clearance for the fresnel zone as well as the curvature of the earth 
 
-3. **Increase Antenna Gain to 5 dBi**
+3. **Increasing Antenna Gain to 5 dBi**
 - The received power curve is raised almost 6 dB
 - The effective range is increased approx. 8km
 - Higher gain leads to further range as it allows more distance to pass before the transmission power crosses the sensitivity threshold
 
-4. **Change Environment Exponent**
+4. **Changing Environment Exponent**
 - Increasing n decreases coverage signifigantly (n=3.5 coverage drops 8km)
 - Increase in environmental variable effects range more than increase in gain. This is because n effects the exponential decay of the received power, while increase in gain only provides a fixed linear lift. Simply, Gain adds a constant value to the link budget while the environmental variable changes the multiplier of the power curve. 
 
