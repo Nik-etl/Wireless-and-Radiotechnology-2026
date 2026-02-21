@@ -1,8 +1,8 @@
 1. **Overview**
-The task is to evaluate a wireless link, ny modifying key design parrameters and observe changes in coverage, received power, fresnel clearance, and feasiblity
+The task is to evaluate a wireless link, by modifying key design parameters and observe changes in coverage, received power, fresnel clearance, and feasiblity
 
 2. **Increasing Gateway Height to 5m**
-- LOS distance increased 1.9km- The link feasibility INC
+- LOS distance increased 1.9km
 - The link feasibility is improved because it increases clearance for the fresnel zone as well as the curvature of the earth 
 
 3. **Increase Antenna Gain to 5 dBi**
