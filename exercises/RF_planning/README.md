@@ -8,7 +8,7 @@ The task is to evaluate a wireless link, by modifying key design parameters and 
 3. **Increase Antenna Gain to 5 dBi**
 - The received power curve is raised almost 6 dB
 - The effective range is increased approx. 8km
-- Higher gain leads to further range as it allows more distance to pass before the transmission power crosses the ensitivity threshold
+- Higher gain leads to further range as it allows more distance to pass before the transmission power crosses the sensitivity threshold
 
 4. **Change Environment Exponent**
 - Increasing n decreases coverage signifigantly (n=3.5 coverage drops 8km)
