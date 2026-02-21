@@ -14,5 +14,8 @@ The task is to evaluate a wireless link, ny modifying key design parrameters and
 - Increasing n decreases coverage signifigantly (n=3.5 coverage drops 8km)
 - Increase in environmental variable effects range more than increase in gain. This is because n effects the exponential decay of the received power, while increase in gain only provides a fixed linear lift. Simply, Gain adds a constant value to the link budget while the environmental variable changes the multiplier of the power curve. 
 
-5. **Move Gateway Location**
+5. **Moving Gateway Location**
 - The Fresnel radius is largest at the midpoint of of the transmission distance. This is important because if obstacles cover over the minimum clearance (60% ), the signal link can be ruined.
+
+6. **Conclusion**
+In practical wireless deployment, the environment exponent (n) has the strongest impact on coverage. While engineers can control transmit power and antenna gains, the physical environment determines the rate at which signal energy is absorbed and scattered. Therefore, accurate environment modeling and ensuring Fresnel clearance are the most critical steps in professional RF planning.
