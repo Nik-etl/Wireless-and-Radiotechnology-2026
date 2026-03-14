@@ -57,12 +57,12 @@ When the client sends the `close` command:
 
 3. **Test Results**
 
-| Test | Scenario |	Result |
+| Test Scenario | Result |
 | :--- | :--- |
-| Bluetooth Pairing |	Successfully paired and trusted via bluetoothctl. |
-| Telemetry Accuracy |	Pi CPU temp matched vcgencmd measure_temp readings. |
-|Range Test	|Stable connection maintained up to ~10 meters. |
-|Concurrency	|Sending thread continued while the main thread waited for user input. |
+| **Bluetooth Pairing** | Successfully paired and trusted via `bluetoothctl`. |
+| **Telemetry Accuracy** | Pi CPU temp matched `vcgencmd measure_temp` readings. |
+| **Range Test** | Stable connection maintained up to ~10 meters. |
+| **Concurrency** | Sending thread continued while the main thread waited for user input. |
 
 ## Example Screenshot
 
