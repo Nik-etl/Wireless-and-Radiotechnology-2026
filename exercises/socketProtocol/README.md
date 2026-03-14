@@ -1,12 +1,3 @@
-README must include
-short project description
-
-How to run the server and the client
-
-test results (localhost + second device)
-
-at least one screenshot
-
 # Socket Protocol Example
 
 1. **Project Description**
