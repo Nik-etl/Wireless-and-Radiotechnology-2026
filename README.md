@@ -1,6 +1,6 @@
 # Wireless and Radiotechnology 2026
 
-This repository contains the practical assignments, field experiments, and simulation exercises for the Wireless and Radiotechnology course (Spring 2026).
+This repository contains the practical assignments, field experiments, simulation exercises, and labs for the Wireless and Radiotechnology course (Spring 2026).
 
 ## Project Structure
 
@@ -11,9 +11,10 @@ This repository contains the practical assignments, field experiments, and simul
 
 ### Simulations
 * **Matlab Exercises:** Scripts and simulations demonstrating wireless communication theory and signal processing concepts.
+* **Simulated Communication Labs:** Python scripts simulating communication environments with edge devices, sensors, central servers, and dashboards. 
 
 ### Exercises
-* **Classroom Assigned Exercises:** Research reports, Short answer assignments, and Designing simple systems. 
+* **Classroom Assigned Exercises:** Research reports, short answer assignments, communication protocol assignments, and designing simple systems. 
 
 ---
 
